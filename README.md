@@ -54,4 +54,4 @@ This project is a Python based Mad Libs Game where users enter different types o
 ---
 
 ## 👨‍💻 Author
-Developed by Your Name
+Developed by 
